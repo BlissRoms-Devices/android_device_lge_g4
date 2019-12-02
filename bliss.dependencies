@@ -1,0 +1,26 @@
+[
+  {
+    "remote":      "github",
+    "repository": "android_device_lge_g4-common",
+    "target_path": "device/lge/g4-common",
+    "revision":    "q"
+  },
+  {
+    "remote":      "github",
+    "repository": "Suicide-Squirrel/Titan-Kernel-LG-G4",
+    "target_path": "kernel/lge/msm8992",
+    "revision":    "staging/android.10.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "revision":    "lineage-17.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "Suicide-Squirrel/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "revision":    "android-10.0"
+  }
+]
